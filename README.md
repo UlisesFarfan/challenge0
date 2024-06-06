@@ -42,7 +42,7 @@ yarn
 Para iniciar el servidor en modo de desarrollo, utiliza el siguiente comando:
 
 ```sh
-yarn run dev
+yarn start
 ```
 
 El servidor se iniciará en el puerto especificado en tu archivo .env.
